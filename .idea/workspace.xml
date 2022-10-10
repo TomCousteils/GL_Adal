@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1730db0-a28b-46e7-9abc-783fac9e1e6a" name="Changes" comment="" />
+    <list default="true" id="d1730db0-a28b-46e7-9abc-783fac9e1e6a" name="Changes" comment="Graphic init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Fwngz4egr3bU7lQrSOG6ngdKuz" />
@@ -38,6 +50,21 @@
       <option name="presentableId" value="Default" />
       <updated>1665412134655</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial package">
+      <created>1665413329400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665413329400</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Graphic init">
+      <created>1665413435382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665413435382</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -50,5 +77,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial package" />
+    <MESSAGE value="Graphic init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Graphic init" />
   </component>
 </project>
