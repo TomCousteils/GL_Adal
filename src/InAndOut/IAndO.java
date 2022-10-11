@@ -9,7 +9,20 @@ public class IAndO {
     public void handleKeyPressed(KeyEvent keyEvent){
         switch (keyEvent.getKeyChar()){
             case 'K' -> {
-                return;}
+            }
+            case 'M' -> {
+                System.out.println("Niques ta mère");
+            }
+        }
+    }
+
+    public void handleKeyReleased(KeyEvent keyEvent){
+        switch (keyEvent.getKeyChar()){
+            case 'K' -> {
+            }
+            case 'M' -> {
+                System.out.println("En fait elle est gentille ta grosse daronne");
+            }
         }
     }
 
