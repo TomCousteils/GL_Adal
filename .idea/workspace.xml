@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1730db0-a28b-46e7-9abc-783fac9e1e6a" name="Changes" comment="Début d'implémentation de handleKeyPressed">
-      <change afterPath="$PROJECT_DIR$/src/InAndOut/Main.java" afterDir="false" />
+    <list default="true" id="d1730db0-a28b-46e7-9abc-783fac9e1e6a" name="Changes" comment="Implémentation pour test d'action sur appui de touches">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/InAndOut/IAndO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InAndOut/IAndO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InAndOut/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InAndOut/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665415187935</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Implémentation pour test d'action sur appui de touches">
+      <created>1665503454516</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665503454516</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Création du package InAndOut, ainsi que la classe qui la contient IAndO" />
     <MESSAGE value="Début d'implémentation de handleKeyPressed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Début d'implémentation de handleKeyPressed" />
+    <MESSAGE value="Implémentation pour test d'action sur appui de touches" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implémentation pour test d'action sur appui de touches" />
   </component>
 </project>
