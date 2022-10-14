@@ -1,14 +1,26 @@
 package Noyau;
 
-public class Kernel {
+public class Kernel implements Graphique,Physique,In_Out{
 
     private String log="";
 
     public Object Sprite; // je sais pas trop comment introduire ça
 
-    public
+    public Object Coord; //créer une classe coordonnée ?
+
+    private Object Pressed;
 
     public Kernel(){
+    }
+
+    public Object getPressedKey(){
+        //Pressed=nom de la fonction de In_Out
+        log=log+"Kernel asked for pressed keys \n";
+        return Pressed;
+    }
+    public Object getAllPosition(){
+        log=log+"Kernel asked for all positions \n";
+        return Coord;
     }
 
     public Object giveAllSprite(){
@@ -17,8 +29,9 @@ public class Kernel {
     }
 
     public Object giveAllPosition(){
+        Coord=getAllPosition();
         log=log+"Graphic asked for all positions \n";
-        return Sprite;
+        return Coord;
     }
 
     public String getLog() {
