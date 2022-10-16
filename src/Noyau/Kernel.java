@@ -10,6 +10,8 @@ public class Kernel implements Graphique,Physique,In_Out{
 
     private Object Pressed;
 
+    private Object Objet;
+
     public Kernel(){
     }
 
@@ -32,6 +34,12 @@ public class Kernel implements Graphique,Physique,In_Out{
         Coord=getAllPosition();
         log=log+"Graphic asked for all positions \n";
         return Coord;
+    }
+
+    public Object getNewObject(){
+        //Objet=nom de la fonction de gameplay
+        log=log+"Kernel asked for the new Object \n";
+        return Objet;
     }
 
     public String getLog() {
