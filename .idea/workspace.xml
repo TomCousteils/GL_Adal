@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1730db0-a28b-46e7-9abc-783fac9e1e6a" name="Changes" comment="Graphic init">
-      <change afterPath="$PROJECT_DIR$/src/Physics/CollisionChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Physics/IPhysics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Physics/KeyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Physics/Physics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +10,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -53,13 +46,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,7 +75,6 @@
       <option name="project" value="LOCAL" />
       <updated>1665413435382</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,8 +93,5 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial package" />
-    <MESSAGE value="Graphic init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Graphic init" />
   </component>
 </project>
