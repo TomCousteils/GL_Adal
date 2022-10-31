@@ -25,6 +25,8 @@ public class Kernel implements Graphique,Physique,In_Out{
         log=log+"Kernel asked for pressed keys \n";
         return Pressed;
     }
+
+    public void givePressdKey(){};
     public ArrayList<Object> getAllPosition(){
         //allCoord=nom de la fonction de physique qui envoie les coordonnés
         log=log+"Kernel asked for all positions \n";
